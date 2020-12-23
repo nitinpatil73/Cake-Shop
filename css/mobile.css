@@ -223,11 +223,11 @@
 		float: none;
 	}
 	#body div.body {
-		min-height: 280px;
+		min-height: 220px;
 	}
 	#body div.body img {
 		display: block;
-		height: 15%;
+		height: 6%; 
 		left: 0;
 		margin: 0 auto;
 		padding: 0;
