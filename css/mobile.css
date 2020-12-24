@@ -18,7 +18,7 @@
 	#header div {
 		max-width: none;
 		overflow: hidden;
-		padding: 90px 0 13%;
+		padding: 7px 0 2%;
 		width: 100%;
 	}
 	#header div a.logo {
@@ -223,11 +223,20 @@
 		float: none;
 	}
 	#body div.body {
-		min-height: 220px;
+		min-height: 115px;
 	}
 	#body div.body img {
 		display: block;
-		height: 6%; 
+		height: 1.5%; 
+		left: 0;
+		margin: 0 auto;
+		padding: 0;
+		position: absolute;
+		width: 100%;
+	}
+	#body div.ab img {
+		display: block;
+		height: 6.5%; 
 		left: 0;
 		margin: 0 auto;
 		padding: 0;
@@ -260,7 +269,7 @@
 	#body div ul li {
 		float: none;
 		margin: 0 auto;
-		padding: 0;
+		padding: 5px;
 		width: 90%;
 	}
 	#body div ul li h1, #body div ul li p {
