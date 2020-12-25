@@ -32,7 +32,7 @@
 		display: block;
 		margin: 0 auto;
 		padding: 0;
-		width: 50%;
+		width: 35%;
 	}
 	#header span#mobile-navigation {
 		background: transparent url(../images/mobile/mobile-menu.png) no-repeat;
@@ -42,7 +42,7 @@
 		padding: 0 0 0 0;
 		position: absolute;
 		right: 6%;
-		top: 20px;
+		top: 10px;
 		width: 50px;
 		z-index: 999;
 	}
@@ -307,6 +307,7 @@
 		margin: 0;
 		padding: 0;
 		width: 100%;
+		margin-left: 80px;
 	}
 	#body div.singlepost .featured img, #body div.singlepost .featured h1, #body div.singlepost .featured span, #body div.singlepost .featured p {
 		padding: 4% 0;
@@ -317,7 +318,7 @@
 	#body div.blog .sidebar, #body div.singlepost .featured,  #body div.singlepost .sidebar {
 		float: none;
 		margin: 0 auto;
-		padding: 0 0 35px;
+		padding: 0 0 0px;
 		width: 90%;
 	}
 	#body.contact div.body div{
